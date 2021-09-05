@@ -1,23 +1,13 @@
 <h1>Hi 👋, I'm Suhyeok Kim.</h1>
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning ...
 
-- 👯 I’m looking to collaborate on [...](...)
+- 👯 I’m looking to collaborate on ...
 
-- 🤝 I’m looking for help with [...](...)
+- 🤝 I’m looking for help with ...
 
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
-- 💬 Ask me about **...**
-
-- 📫 How to reach me rlatn219@korea.ac.kr
-
-- 📄 Know about my experiences [...](...)
-
-- ⚡ Fun fact **...**
+- 👨‍💻 All of my projects are available at ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
